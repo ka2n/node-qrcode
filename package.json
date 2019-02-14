@@ -36,10 +36,10 @@
     "qrcode": "./bin/qrcode"
   },
   "dependencies": {
-    "can-promise": "0.0.1",
+    "can-promise": "^0.0.1",
     "dijkstrajs": "^1.0.1",
     "isarray": "^2.0.1",
-    "pngjs": "^3.3.0",
+    "pngjs": "^3.4.0",
     "yargs": "^12.0.5"
   },
   "devDependencies": {
